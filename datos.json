@@ -4,8 +4,8 @@
         "descripcion": "Primer álbum de estudio de Taylor Swift, cuenta con 15 canciones principalmente de género Country. Fue un éxito en las listas de música country y la introdujo en el panorama musical estadounidense. Alcanzó el puesto número 5 en el Billboard 200 y obtuvo varias certificaciones de platino.  ",
         "fecha": "24 de octubre, 2006",
         "signo": "country",
-        "foto": "debut_portada.webp",
-        "fotos": ["debut_deluxe.jpg","no.jpg","picture_to_burn.jpg","teardrops.jpg","beatiful_eyes.webp"],
+        "foto": ""no.jpg"",
+        "fotos": ["no.jpg","no.jpg","no.jpg","teardrops.jpg","no.jpg"],
     },
     {
         "nombre": "Pasantía The Bridge",
