@@ -1,11 +1,146 @@
 [
     {
         "nombre": "Taylor Swift",
-        "descripcion": "Primer álbum de estudio de Taylor Swift, cuenta con 15 canciones principalmente de género Country. Fue un éxito en las listas de música country y la introdujo en el panorama musical estadounidense. Alcanzó el puesto número 5 en el Billboard 200 y obtuvo varias certificaciones de platino.  ",
+        "descripcion": "Taylor Swift (2008) en el álbum debut homónimo de la cantante. Fue lanzado cuando Taylor tenía tan solo 16 años y su primer sencillo fue la canción Tim McGraw, la cual fue un éxito liderando la lista de sencillos country. Cuenta con 15 canciones que hablan principalmente de amores y desamores adolescentes o la sensación de incertidumbre al estar creciendo en un mundo desconocido. Generó una gran comunidad al contener algunas letras mayúsculas aleatoreas en los lyrics de las canciones, las cuales al juntarse formaban mensajes ocultos. Alcanzó el puesto número 5 en el Billboard 200 y obtuvo varias certificacioes de platino.",
         "fecha": "24 de octubre, 2006",
         "signo": "country",
         "foto": "01-0.webp",
         "fotos": ["01-01.jpg","01-02.jpg","01-03.jpg","01-04.jpg"]
-    }
-]
+    },
 
+    {
+        "nombre": "Fearless",
+        "descripcion": "Fearless en el segundo álbum de estudio, que sigue el estilo country del primer álbum pero se acerca lentamente al pop. Cuenta con 19 canciones, de las cuales destaca Love Story, sencillo que llevó a Taylor a la fama y actualmente se utiliza para pedir matrimonio en los conciertos. Es un álbum lleno de magia y curiosidad, que habla de la dicha y la devastación de la juventud, de cómo vas aprendiendo de cada pequeño momento triste.  Fearless ganó el premio Grammy al Álbum del Año en 2010, convirtiendo a Taylor Swift en la artista más joven en ganar este premio en ese momento.",
+        "fecha": "11 de noviembre, 2008",
+        "signo": "country",
+        "foto": "02-0.jpg",
+        "fotos": ["02-01.jpg","02-02.jpg","02-03.jpg","02-04.jpg"]
+    },
+
+    {
+        "nombre": "Speak Now",
+        "descripcion": "Speak Now es una oda a las historias y los cuentos de hadas, sin olvidar que el éxito que vas forjando es la mejor venganza hacia los que te critican y te intentar hundir. El tercer álbum de la artista es el primero que escribió en su totalidad sin la ayuda de coescritores, teniendo 22 canciones en su versión deluxe. Si bien contiene tintes de la música country, también mezcla sonidos del pop y el rock. La canción que mejor describe la magia de este álbum es Enchanted, una balada que habla de cómo te interesas por alguien y pides que por favor no esté enamorada de alguien más. Debutó en el puesto número 1 en el Billboard 200 y vendió más de un millón de copias en su primera semana sólo en Estados Unidos, un logro impresionante para una artista joven y que ayudó a cimentar su base de fanáticos.",
+        "fecha": "25 de octubre, 2010",
+        "signo": "country",
+        "foto": "03-0.jpg",
+        "fotos": ["03-01.jpg","03-02.jpg","03-03.jpg","03-04.jpg"]
+    },
+
+    {
+        "nombre": "Red",
+        "descripcion": "El color rojo representa el amor, la pasión, el sufrimiento y el miedo a volver a enamorarse. Todas las emociones que este color puede describir son descritas en el cuarto álbum de Taylor: RED. La catarsis en su máxima expresión que produce una ruptura amorosa es descrita en la canción All Too Well, donde Taylor explora las diversas situaciones en que la relación se veía tóxica pero ella estaba tan enamorada que no pudo verlo con claridad hasta que esta terminó. Así como el amor es complejo, los géneros que explora este álbum son diversos: pop, rock, country y balada. Debutó en el puesto número 1 en el Billboard 200 y vendió más de 1.2 millones de copias en su primera semana en Estados Unidos. El álbum le dio a Taylor reconocimiento internacional en el mundo del pop y fue uno de los discos más vendidos de 2012, sin embargo, pese a estar nominado a los premios Grammy, no obtuvo ninguno.",
+        "fecha": "22 de octubre, 2012",
+        "signo": "country",
+        "foto": "04-0.jpg",
+        "fotos": ["04-01.jpg","04-02.jpg","04-03.jpg","04-04.jpg"]
+    },
+
+    {
+        "nombre": "1989",
+        "descripcion": "",
+        "fecha": "27 de octubre, 2014",
+        "signo": "pop",
+        "foto": "05-0.jpg",
+        "fotos": ["05-01.jpg","05-02.jpg","05-03.jpg","05-04.jpg"]
+    },
+
+    {
+        "nombre": "reputation",
+        "descripcion": "",
+        "fecha": "10 de noviembre, 2017",
+        "signo": "pop",
+        "foto": "06-0.jpg",
+        "fotos": ["06-01.jpg","06-02.jpg","06-03.jpg","06-04.jpg"]
+    },
+
+    {
+        "nombre": "Lover",
+        "descripcion": "",
+        "fecha": "23 de agosto, 2019",
+        "signo": "pop",
+        "foto": "07-0.jpg",
+        "fotos": ["07-01.jpg","07-02.jpg","07-03.jpg","07-04.jpg"]
+    },
+
+    {
+        "nombre": "folklore",
+        "descripcion": "",
+        "fecha": "24 de julio, 2020",
+        "signo": "folk",
+        "foto": "08-0.jpg",
+        "fotos": ["08-01.jpg","08-02.jpg","08-03.jpg","08-04.jpg"]
+    },
+
+    {
+        "nombre": "evermore",
+        "descripcion": "",
+        "fecha": "11 de diciembre, 2020",
+        "signo": "folk",
+        "foto": "09-0.jpg",
+        "fotos": ["09-01.jpg","09-02.jpg","09-03.jpg","09-04.jpg"]
+    },
+
+    {
+        "nombre": "Fearless (Taylor's Version)",
+        "descripcion": "",
+        "fecha": "9 de abril, 2021",
+        "signo": "regrabaciones",
+        "foto": "10-0.webp",
+        "fotos": ["10-01.jpg","10-02.jpg","10-03.jpg","10-04.jpg"]
+    },
+
+    {
+        "nombre": "Red (Taylor's Version)",
+        "descripcion": "",
+        "fecha": "12 de noviembre, 2021",
+        "signo": "regrabaciones",
+        "foto": "11-0.jpg",
+        "fotos": ["11-01.jpg","11-02.jpg","11-03.jpg","11-04.webp"]
+    },
+
+    {
+        "nombre": "Midnights",
+        "descripcion": "",
+        "fecha": "21 de octubre, 2022",
+        "signo": "pop",
+        "foto": "12-0.webp",
+        "fotos": ["12-01.jpg","12-02.jpg","12-03.jpg","12-04.jpg"]
+    },
+
+    {
+        "nombre": "Speak Now (Taylor's Version)",
+        "descripcion": "",
+        "fecha": "7 de julio, 2023",
+        "signo": "regrabaciones",
+        "foto": "13-0.jpg",
+        "fotos": ["13-01.jpg","13-02.jpg","13-03.jpg","13-04.webp"]
+    },
+
+    {
+        "nombre": "1989 (Taylor's Version)",
+        "descripcion": "",
+        "fecha": "27 de octubre, 2023",
+        "signo": "regrabaciones",
+        "foto": "14-0.jpg",
+        "fotos": ["14-01.jpg","14-02.jpg","14-03.jpg","14-04.jpg"]
+    },
+
+    {
+        "nombre": "The Tortured Poets Department",
+        "descripcion": "",
+        "fecha": "19 de abril, 2024",
+        "signo": "pop",
+        "foto": "15-0.jpg",
+        "fotos": ["15-01.jpg","15-02.jpg","15-03.jpg","15-04.jpg"]
+    },
+
+    {
+        "nombre": "Misceláneas",
+        "descripcion": "",
+        "fecha": "sin fecha",
+        "signo": "pop",
+        "foto": "16-0.jpg",
+        "fotos": ["16-01.jpg","16-02.webp","16-03.jpg","16-04.jpg"]
+    },
+
+]
