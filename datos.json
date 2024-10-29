@@ -3,9 +3,9 @@
         "nombre": "Taylor Swift",
         "descripcion": "Primer álbum de estudio de Taylor Swift, cuenta con 15 canciones principalmente de género Country. Fue un éxito en las listas de música country y la introdujo en el panorama musical estadounidense. Alcanzó el puesto número 5 en el Billboard 200 y obtuvo varias certificaciones de platino.  ",
         "fecha": "24 de octubre, 2006",
-        "signo": "editorial",
-        "foto": "no.jpg",
-        "fotos": ["no.jpg", "no.jpg", "no.jpg", "teardrops.jpg", "no.jpg"]
+        "signo": "country",
+        "foto": "01-0.webp",
+        "fotos": ["01-01.jpg","01-02.jpg","01-03.jpg","01-04.jpg"],
     }
 ]
 
