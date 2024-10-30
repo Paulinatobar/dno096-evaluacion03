@@ -1,146 +1,147 @@
 [
     {
         "nombre": "Taylor Swift",
-        "descripcion": "Taylor Swift (2008) en el álbum debut homónimo de la cantante. Fue lanzado cuando Taylor tenía tan solo 16 años y su primer sencillo fue la canción Tim McGraw, la cual fue un éxito liderando la lista de sencillos country. Cuenta con 15 canciones que hablan principalmente de amores y desamores adolescentes o la sensación de incertidumbre al estar creciendo en un mundo desconocido. Generó una gran comunidad al contener algunas letras mayúsculas aleatoreas en los lyrics de las canciones, las cuales al juntarse formaban mensajes ocultos. Alcanzó el puesto número 5 en el Billboard 200 y obtuvo varias certificacioes de platino.",
+        "descripcion": "Taylor Swift es el álbum debut homónimo de la cantante. Fue lanzado cuando Taylor tenía tan solo 16 años y su primer sencillo fue la canción Tim McGraw, la cual fue un éxito liderando la lista de sencillos country. Cuenta con 15 canciones que hablan principalmente de amores y desamores adolescentes y sobre la sensación de incertidumbre al estar creciendo en un mundo desconocido. Logró acercarse a sus fans y conectar con ellas al contener algunas letras mayúsculas aleatorias en los lyrics de las canciones, las cuales al juntarse formaban mensajes ocultos. Alcanzó el puesto número 5 en el Billboard 200 y obtuvo varias certificacioes de platino.",
         "fecha": "24 de octubre, 2006",
         "signo": "country",
         "foto": "01-0.webp",
-        "fotos": ["01-01.jpg","01-02.jpg","01-03.jpg","01-04.jpg"]
+        "fotos": ["01-01.jpg", "01-02.jpg", "01-03.jpg", "01-04.jpg"]
     },
 
     {
         "nombre": "Fearless",
-        "descripcion": "Fearless en el segundo álbum de estudio, que sigue el estilo country del primer álbum pero se acerca lentamente al pop. Cuenta con 19 canciones, de las cuales destaca Love Story, sencillo que llevó a Taylor a la fama y actualmente se utiliza para pedir matrimonio en los conciertos. Es un álbum lleno de magia y curiosidad, que habla de la dicha y la devastación de la juventud, de cómo vas aprendiendo de cada pequeño momento triste.  Fearless ganó el premio Grammy al Álbum del Año en 2010, convirtiendo a Taylor Swift en la artista más joven en ganar este premio en ese momento.",
+        "descripcion": "Fearless es el segundo álbum de estudio, que sigue el estilo country del primer álbum pero se acerca lentamente al pop. Cuenta con 19 canciones, de las cuales destaca Love Story, sencillo que llevó a Taylor a la fama y actualmente se utiliza para pedir matrimonio en los conciertos. Es un álbum lleno de magia y curiosidad, que habla de la dicha y la devastación de la juventud, de cómo vas aprendiendo de cada pequeño momento triste. Fearless ganó el premio Grammy al Álbum del Año en 2010, convirtiendo a Taylor Swift en la artista más joven en ganar este premio en ese momento con tan solo 18 años.",
         "fecha": "11 de noviembre, 2008",
         "signo": "country",
         "foto": "02-0.jpg",
-        "fotos": ["02-01.jpg","02-02.jpg","02-03.jpg","02-04.jpg"]
+        "fotos": ["02-01.jpg", "02-02.jpg", "02-03.jpg", "02-04.jpg"]
     },
 
     {
         "nombre": "Speak Now",
-        "descripcion": "Speak Now es una oda a las historias y los cuentos de hadas, sin olvidar que el éxito que vas forjando es la mejor venganza hacia los que te critican y te intentar hundir. El tercer álbum de la artista es el primero que escribió en su totalidad sin la ayuda de coescritores, teniendo 22 canciones en su versión deluxe. Si bien contiene tintes de la música country, también mezcla sonidos del pop y el rock. La canción que mejor describe la magia de este álbum es Enchanted, una balada que habla de cómo te interesas por alguien y pides que por favor no esté enamorada de alguien más. Debutó en el puesto número 1 en el Billboard 200 y vendió más de un millón de copias en su primera semana sólo en Estados Unidos, un logro impresionante para una artista joven y que ayudó a cimentar su base de fanáticos.",
+        "descripcion": "Speak Now es una oda a las historias y los cuentos de hadas, sin olvidar que el éxito que vas forjando es la mejor venganza hacia los que te critican y te intentar hundir. El tercer álbum de la artista es el primero que escribió en su totalidad sin la ayuda de coescritores, teniendo 22 canciones en su versión deluxe, la mayoría dedicada a sus antiguas relaciones, incluyendo canciones para Joe Jonas, John Mayer y Taylor Lautner. Si bien contiene tintes de la música country, también mezcla sonidos del pop y el rock. La canción que mejor describe la magia de este álbum es Enchanted, una balada que habla de cómo te interesas por alguien y pides que por favor no esté enamorada de alguien más. Debutó en el puesto número 1 en el Billboard 200 y vendió más de un millón de copias en su primera semana sólo en Estados Unidos, un logro impresionante para una artista joven y que ayudó a cimentar su base de fanáticas, a quienes les escribió con mucho amor la canción Long Live.",
         "fecha": "25 de octubre, 2010",
         "signo": "country",
         "foto": "03-0.jpg",
-        "fotos": ["03-01.jpg","03-02.jpg","03-03.jpg","03-04.jpg"]
+        "fotos": ["03-01.jpg", "03-02.jpg", "03-03.jpg", "03-04.jpg"]
     },
 
     {
         "nombre": "Red",
-        "descripcion": "El color rojo representa el amor, la pasión, el sufrimiento y el miedo a volver a enamorarse. Todas las emociones que este color puede describir son descritas en el cuarto álbum de Taylor: RED. La catarsis en su máxima expresión que produce una ruptura amorosa es descrita en la canción All Too Well, donde Taylor explora las diversas situaciones en que la relación se veía tóxica pero ella estaba tan enamorada que no pudo verlo con claridad hasta que esta terminó. Así como el amor es complejo, los géneros que explora este álbum son diversos: pop, rock, country y balada. Debutó en el puesto número 1 en el Billboard 200 y vendió más de 1.2 millones de copias en su primera semana en Estados Unidos. El álbum le dio a Taylor reconocimiento internacional en el mundo del pop y fue uno de los discos más vendidos de 2012, sin embargo, pese a estar nominado a los premios Grammy, no obtuvo ninguno.",
+        "descripcion": "El color rojo representa el amor, la pasión, el sufrimiento y el miedo a volver a enamorarse. Todas las emociones que este color puede describir son descritas en el cuarto álbum de Taylor: RED. La catarsis en su máxima expresión que produce una ruptura amorosa es descrita en la canción All Too Well (Jake Gyllenhaal no devolvió la bufanda), donde Taylor explora las diversas situaciones en que la relación se veía tóxica pero ella estaba tan enamorada que no pudo verlo con claridad hasta que esta terminó. Así como el amor es complejo, los géneros que explora este álbum son diversos: pop, rock, country y balada. Debutó en el puesto número 1 en el Billboard 200 y vendió más de 1.2 millones de copias en su primera semana en Estados Unidos. El álbum le dio a Taylor reconocimiento internacional en el mundo del pop y fue uno de los discos más vendidos de 2012, sin embargo, pese a estar nominado a los premios Grammy, no obtuvo ninguno.",
         "fecha": "22 de octubre, 2012",
         "signo": "country",
         "foto": "04-0.jpg",
-        "fotos": ["04-01.jpg","04-02.jpg","04-03.jpg","04-04.jpg"]
+        "fotos": ["04-01.jpg", "04-02.jpg", "04-03.jpg", "04-04.jpg"]
     },
 
     {
         "nombre": "1989",
-        "descripcion": "",
+        "descripcion": "En el año 1989 nació Taylor Swift y también el nombre del quinto álbum de estudio de la cantante. Este representó un cambio radical en lo que se identificaba a Taylor, siendo un álbum totalmente pop y alejado de letras de desamores y corazones rotos, para centrarse en historias de fiestas, amistades, viajes y enamoramientos. La canción que representa a este álbum es Blank Space, en donde la artista de manera irónica, habla de las críticas que la prensa hace sobre su vida privada, en especial de sus relaciones amorosas. También, en este álbum comienza a trabajar con el producto Jack Antonoff, con quien comienza a definir su estilo musical. Si tuviéramos que definir a 1989 en una frase esta sería: synth pop de los años 80. Ganó el Grammy al Álbum del Año en 2016, convirtiendo a Swift en la primera mujer en ganar este premio dos veces.",
         "fecha": "27 de octubre, 2014",
         "signo": "pop",
         "foto": "05-0.jpg",
-        "fotos": ["05-01.jpg","05-02.jpg","05-03.jpg","05-04.jpg"]
+        "fotos": ["05-01.jpg", "05-02.jpg", "05-03.jpg", "05-04.jpg"]
     },
 
     {
         "nombre": "reputation",
-        "descripcion": "",
+        "descripcion": "Luego del éxito de 1989, Taylor Swift fue el blanco de críticas de diversas personas del mundo del espectáculo debido a polémicas que la involucraron con rostros como Calvin Harris, Kim Kardashian y Kanye West. Esto llevó a que desapareciera de todas las redes sociales. Pero, resurgió de las cenizas con todo y lo hizo a través del álbum reputation. Las serpientes, la venganza, el amor profundo y pasional, y también la ansiedad son los temas principales de esta obra maestra que mezcla sonidos de la música electrónica con el synth pop. El sencillo Look What You Make Me Do representa lo disruptivo que fue este álbum y su video contiene la mayor cantidad de Easter Eggs de todos los videos musicales de la carrera de la artista. A pesar del cariño que los fans le tienen a rep, este álbum no tuvo ninguna nominación a los Grammys. #queremosRepTV",
         "fecha": "10 de noviembre, 2017",
         "signo": "pop",
+
         "foto": "06-0.jpg",
-        "fotos": ["06-01.jpg","06-02.jpg","06-03.jpg","06-04.jpg"]
+        "fotos": ["06-01.jpg", "06-02.jpg", "06-03.jpg", "06-04.jpg"]
     },
 
     {
         "nombre": "Lover",
-        "descripcion": "",
+        "descripcion": "El amor es un sentimiento complejo y puede sentirse desde y hacia muchas personas de diversas formas. Lover es el séptimo álbum de la cantante, en donde explora los sentimientos que esta emoción puede producir, siendo Joe Alwyn, su entonces pareja, una de sus fuentes de inspiración. En la canción Lover expresa lo feliz que se siente con él y cómo desea que estén siempre juntos. Pero también, explora el miedo a que un cercano tenga una enfermedad grave en la canción Soon You'll Get Better y la sensación de que ningún amigo se va a quedar contigo sin antes traicionarte en The Archer. Cuenta con 16 canciones y en el 2023 se añadió el último sencillo llamado All Of The Girls You Loved Before, para cerrar la era más colorida y feliz de la artista.",
         "fecha": "23 de agosto, 2019",
         "signo": "pop",
         "foto": "07-0.jpg",
-        "fotos": ["07-01.jpg","07-02.jpg","07-03.jpg","07-04.jpg"]
+        "fotos": ["07-01.jpg", "07-02.jpg", "07-03.jpg", "07-04.jpg"]
     },
 
     {
         "nombre": "folklore",
-        "descripcion": "",
+        "descripcion": "folklore es el primer álbum pandémico de Taylor Swift, donde vuelve a desafiarse de una manera extraordinaria, al crear un álbum indie/folk y con historias inventadas por ella, dejándose de inspirar principalmente en sus vivencias personales. Este álbum contiene un triángulo amoroso entre James, Betty y Augustine descrito desde la perspectiva de cada uno en las canciones betty, cardigan y august, respectivamente. Los sonidos acústicos de la guitarra y el piano son lo predominante en las canciones. Por otro lado, las letras alcanzan un nivel de poesía y armonía nunca antes visto en otros álbumes de Taylor, es por esto que, para muchos críticos, folklore es la mejor creación de la cantante. Además, Joe Alwyn comienza a participar en la escritura de canciones bajo el seudónimo de William Bovery. En el año 2021, Taylor conquistó su tercer Grammy al Álbum del Año gracias a todos los elementos que construyen esta gran obra maestra.",
         "fecha": "24 de julio, 2020",
         "signo": "folk",
         "foto": "08-0.jpg",
-        "fotos": ["08-01.jpg","08-02.jpg","08-03.jpg","08-04.jpg"]
+        "fotos": ["08-01.jpg", "08-02.jpg", "08-03.jpg", "08-04.jpg"]
     },
 
     {
         "nombre": "evermore",
-        "descripcion": "",
+        "descripcion": "evermore es el álbum hermano de folklore, ya que salió tan solo 5 meses después de este y comparten el estilo indie/folk, aunque tiene algunos tintes de pop. En sus quince canciones explora diversas temáticas profundas, como la sensación de una relación que no funciona en tolerate it, extrañar y recordar a un ser querido en marjorie o analizar las razones de una ruptura dolorosa en champagne problems. También, de cierta forma, Taylor nos cuenta que no puede dejar de escribir, inventar historias y contarlas a través de melodías y ritmos diversos. Por esto, evermore se encarga de llevarnos a lo desconocido, donde se hacen rituales, crecen flores extrañas, donde viven nuestros anhelos y nuestras frustraciones. No ganó ningún premio importante ya que todos se los llevó folklore, y se dice que es el hijo menos favorito de Taylor",
         "fecha": "11 de diciembre, 2020",
         "signo": "folk",
         "foto": "09-0.jpg",
-        "fotos": ["09-01.jpg","09-02.jpg","09-03.jpg","09-04.jpg"]
+        "fotos": ["09-01.jpg", "09-02.jpg", "09-03.jpg", "09-04.jpg"]
     },
 
     {
         "nombre": "Fearless (Taylor's Version)",
-        "descripcion": "",
+        "descripcion": "Fearless TV es la primera regrabación que publicó Taylor Swift. Las regrabaciones surgen luego del enfrentamiento que tuvo Taylor con la discográfica Big Machine Records, quienes no permitieron que la cantante pueda ser dueña de sus 6 primeros álbumes y vendieron los derechos a Scooter Braun. Luego de una gran batalla legal, Taylor logró que le permitieran regrabar las canciones de los álbumes involucrados en la disputa, pero ella decidió darle una segunda derivada y además, decidió añadir canciones que escribió en los momentos respectivos de cada álbum que no fueron añadidos en las versiones originales. Estas son las famosas canciones From The Vault. En el caso de Fearless, se añadieron 6 canciones nuevas, donde podemos destacar a Mr. Perfectly Fine, una divertida canción que juega con las palabras para describir al desgraciado ex novio que finge estar mejor que tú. Además, Taylor decidió añadir If This Was A Movie, originalmente de Speak Now. En las nuevas grabaciones se puede notar el crecimiento vocal de Taylor respecto al álbum original y cómo ha mejorado su interpretación de las canciones con el paso de los años.",
         "fecha": "9 de abril, 2021",
         "signo": "regrabaciones",
         "foto": "10-0.webp",
-        "fotos": ["10-01.jpg","10-02.jpg","10-03.jpg","10-04.jpg"]
+        "fotos": ["10-01.jpg", "10-02.jpg", "10-03.jpg", "10-04.jpg"]
     },
 
     {
         "nombre": "Red (Taylor's Version)",
-        "descripcion": "",
+        "descripcion": "Red TV es la segunda regrabación publicada, la cual incluye 12 canciones nuevas, lo que convierte al álbum regrabado con más canciones From The Vault hasta el momento. Se puede destacar a las canciones Safe & Sound que fue parte de la banda sonora de la película de los Juegos del Hambre, la nueva colaboración con Ed Sheeran en Run o Ronan que fue inspirada en las notas del blog de Maya Thopsom, cuyo hijo de 4 años falleció de neuroblastoma. Pero, la canción más esperada fue All Too Well 10 minutes version, la versión extendida de la original All Too Well con detalles nunca antes contados de la relación entre Taylor y Jake Gyllenhaal y que contó con un video musical que fue ganador del Grammy a Mejor Video Musical, dándole a Red original una revancha con estos premios.",
         "fecha": "12 de noviembre, 2021",
         "signo": "regrabaciones",
         "foto": "11-0.jpg",
-        "fotos": ["11-01.jpg","11-02.jpg","11-03.jpg","11-04.webp"]
+        "fotos": ["11-01.jpg", "11-02.jpg", "11-03.jpg", "11-04.webp"]
     },
 
     {
         "nombre": "Midnights",
-        "descripcion": "",
+        "descripcion": "Midnights es el décimo álbum de Taylor, caracterizado por describir trece noches de insomnio que padeció Taylor por diversos motivos como el amor, el autodesprecio, fantasear con la venganza o la ansiedad. Estos temas pueden explorados respectivamente en las canciones Lavander Haze, que habla del enamoramiento inicial de las relaciones y el deseo de permanecer en él; Anti-Hero, donde Taylor muestra su lado vulnerable al expresar sus pensamientos intrusivos más profundos; Vigilante Shit, una oda a la venganza en todas sus formas o You're On Your Own, Kid, dónde Taylor toma todo lo malo que le ha pasado y analiza lo bueno que ha sacado de sus desgracias. Este álbum de synth pop tiene 3 versiones: Original, 3 A.M. y Late Night Edition. Esta última contiene canciones profundas de desamor, relacionadas con una ruptura lenta y dolorosa, d0nde se presumía el término de la relación de 6 años con Joe Alwyn. Midnights ganó el Grammy al Álbum del Año y con esto, Taylor rompió el record de ser la persona con más premios Grammy de este tipo, con un total de 4.",
         "fecha": "21 de octubre, 2022",
         "signo": "pop",
         "foto": "12-0.webp",
-        "fotos": ["12-01.jpg","12-02.jpg","12-03.jpg","12-04.jpg"]
+        "fotos": ["12-01.jpg", "12-02.jpg", "12-03.jpg", "12-04.jpg"]
     },
 
     {
         "nombre": "Speak Now (Taylor's Version)",
-        "descripcion": "",
+        "descripcion": "Speak Now TV es la tercera regrabación de los álbumes originales y el primero en ser anunciado durante el Eras Tour en el año 2023. Incluye 6 canciones extra, con colaboraciones con Hayley Williams y Fall Out Boy, y tuvo un cambio en la letra de la canción de Better Than Revenge, ya que la versión original era considera controversial. La interpretación vocal madura y texturizada de Taylor en comparación con la realizada en las canciones originales vuelve a ser tema de conversación. Además, lanzó el video musical de la canción I Can See You, donde podemos ver a los actores originales del video de Mean junto a Taylor Lautner, su ex-pareja, demostrando que puede llevarse bien y tener buena relación con ellas (cuando son buenas personas, como Taylor Lautner, te amamos Taylor Lautner).",
         "fecha": "7 de julio, 2023",
         "signo": "regrabaciones",
         "foto": "13-0.jpg",
-        "fotos": ["13-01.jpg","13-02.jpg","13-03.jpg","13-04.webp"]
+        "fotos": ["13-01.jpg", "13-02.jpg", "13-03.jpg", "13-04.webp"]
     },
 
     {
         "nombre": "1989 (Taylor's Version)",
-        "descripcion": "",
+        "descripcion": "1989 TV es la cuarta regrabación de los álbumes originales, anunciado en el Eras Tour solo un mes después del lanzamiento de Speak Now TV. Contiene 5 canciones From The Vault que cuentan el proceso desde el enamoramiento intenso hasta la desilusión al ser cambiado por alguien más. Se presume que estas canciones hablan de la relación que tuvo Taylor Swift con Harry Styles en el 2013. Este álbum tuvo breves pistas antes de ser lanzado con las canciones TV de Wildest Dreams y This Love, luego apareció un guiño en el video de I Can See You y finalmente, la noche que fue anunciado, el 8 de agosto (9/8 para los gringos), Taylor ocupó todos los vestuarios de color azul, característico de esta era.",
         "fecha": "27 de octubre, 2023",
         "signo": "regrabaciones",
         "foto": "14-0.jpg",
-        "fotos": ["14-01.jpg","14-02.jpg","14-03.jpg","14-04.jpg"]
+        "fotos": ["14-01.jpg", "14-02.jpg", "14-03.jpg", "14-04.jpg"]
     },
 
     {
         "nombre": "The Tortured Poets Department",
-        "descripcion": "",
+        "descripcion": "The Tortured Poets Department es un álbum diferente. Está dividido en dos secciones, de 15 y 16 canciones cada una. Fue anunciado durante el discurso de agradecimiento de Taylor al recibir el Grammy a Mejor Álbum Vocal Pop por Midnights. La gran cantidad de canciones hablan de una ruptura amorosa con todas sus letras, analizando las causas y las consecuencias de esta, pero también de nuevos amores que surgen después de la ruptura, ya sean esporádicos e intensos o más estables y románticos. Nuevamente Taylor nos demuestra que escribe canciones casi por necesidad y nos transporta en un viaje caracterizado por el synth pop, el folk pop y el chamber pop, y nos entrega una historia que ya no es solo de ella al final. Las colaboraciones son con Post Malone en Fortnight y con Florence + The Machine en Florida!!!, ambas canciones especiamente pegadizas e intensas, donde la magia ocurre al escuchar las voces de los intérpretes.",
         "fecha": "19 de abril, 2024",
         "signo": "pop",
         "foto": "15-0.jpg",
-        "fotos": ["15-01.jpg","15-02.jpg","15-03.jpg","15-04.jpg"]
+        "fotos": ["15-01.jpg", "15-02.jpg", "15-03.jpg", "15-04.jpg"]
     },
 
     {
         "nombre": "Misceláneas",
-        "descripcion": "",
+        "descripcion": "Además de los 11 álbumes de estudio de la cantante y las 4 regrabaciones de sus álbumes antiguos, Taylor ha participado de colaboraciones con distintos artistas como Big Red Machine, Ed Sheeran, Sugarland, entre otros. Si bien no es una cantante que saque sencillos sueltos sin un álbum detrás, también hay un par de canciones que se suman a esta sección.",
         "fecha": "sin fecha",
         "signo": "pop",
         "foto": "16-0.jpg",
-        "fotos": ["16-01.jpg","16-02.webp","16-03.jpg","16-04.jpg"]
+        "fotos": ["16-01.jpg", "16-02.webp", "16-03.jpg", "16-04.jpg"]
     }
-    
 ]
+
