@@ -31,8 +31,8 @@
         "descripcion": "El color rojo representa el amor, la pasión, el sufrimiento y el miedo a volver a enamorarse. Todas las emociones que este color puede describir son descritas en el cuarto álbum de Taylor: RED. La catarsis en su máxima expresión que produce una ruptura amorosa es descrita en la canción All Too Well (Jake Gyllenhaal no devolvió la bufanda), donde Taylor explora las diversas situaciones en que la relación se veía tóxica pero ella estaba tan enamorada que no pudo verlo con claridad hasta que esta terminó. Así como el amor es complejo, los géneros que explora este álbum son diversos: pop, rock, country y balada. Debutó en el puesto número 1 en el Billboard 200 y vendió más de 1.2 millones de copias en su primera semana en Estados Unidos. El álbum le dio a Taylor reconocimiento internacional en el mundo del pop y fue uno de los discos más vendidos de 2012, sin embargo, pese a estar nominado a los premios Grammy, no obtuvo ninguno.",
         "fecha": "22 de octubre, 2012",
         "signo": "country",
-        "foto": "04-0.jpg",
-        "fotos": ["04-01.jpg", "04-02.jpg", "04-03.jpg", "04-04.jpg"]
+        "foto": "04-0.webp",
+        "fotos": ["04-01.webp", "04-02.webp", "04-03.jpg", "04-04.webp"]
     },
 
     {
@@ -41,7 +41,7 @@
         "fecha": "27 de octubre, 2014",
         "signo": "pop",
         "foto": "05-0.jpg",
-        "fotos": ["05-01.jpg", "05-02.jpg", "05-03.jpg", "05-04.jpg"]
+        "fotos": ["05-01.webp", "05-02.jpg", "05-03.jpg", "05-04.jpg"]
     },
 
     {
@@ -68,7 +68,7 @@
         "descripcion": "folklore es el primer álbum pandémico de Taylor Swift, donde vuelve a desafiarse de una manera extraordinaria, al crear un álbum indie/folk y con historias inventadas por ella, dejándose de inspirar principalmente en sus vivencias personales. Este álbum contiene un triángulo amoroso entre James, Betty y Augustine descrito desde la perspectiva de cada uno en las canciones betty, cardigan y august, respectivamente. Los sonidos acústicos de la guitarra y el piano son lo predominante en las canciones. Por otro lado, las letras alcanzan un nivel de poesía y armonía nunca antes visto en otros álbumes de Taylor, es por esto que, para muchos críticos, folklore es la mejor creación de la cantante. Además, Joe Alwyn comienza a participar en la escritura de canciones bajo el seudónimo de William Bovery. En el año 2021, Taylor conquistó su tercer Grammy al Álbum del Año gracias a todos los elementos que construyen esta gran obra maestra.",
         "fecha": "24 de julio, 2020",
         "signo": "folk",
-        "foto": "08-0.jpg",
+        "foto": "08-0.webp",
         "fotos": ["08-01.jpg", "08-02.jpg", "08-03.jpg", "08-04.jpg"]
     },
 
@@ -105,7 +105,7 @@
         "fecha": "21 de octubre, 2022",
         "signo": "pop",
         "foto": "12-0.webp",
-        "fotos": ["12-01.jpg", "12-02.jpg", "12-03.jpg", "12-04.jpg"]
+        "fotos": ["12-01.webp", "12-02.webp", "12-03.webp", "12-04.webp"]
     },
 
     {
@@ -132,7 +132,7 @@
         "fecha": "19 de abril, 2024",
         "signo": "pop",
         "foto": "15-0.jpg",
-        "fotos": ["15-01.jpg", "15-02.jpg", "15-03.jpg", "15-04.jpg"]
+        "fotos": ["15-01.webp", "15-02.jpg", "15-03.webp", "15-04.webp"]
     },
 
     {
@@ -144,4 +144,3 @@
         "fotos": ["16-01.jpg", "16-02.webp", "16-03.jpg", "16-04.jpg"]
     }
 ]
-
